@@ -1,0 +1,22 @@
+h2 {
+	/* H2 is the style for any container headlines */
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+	font-family: "Roboto", serif;
+	font-weight: 200;
+	font-size:   2.5rem;
+}
+
+
+h3, h4 {
+	/* H2 is the style for any container headlines */
+	font-family: "Roboto", serif;
+	font-weight: 300;
+	font-size:   1.5rem;
+}
+
+p {
+	font-family: "Roboto", serif;
+	font-weight: 400;
+	font-size:   1rem;
+}
